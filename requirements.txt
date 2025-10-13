@@ -1,1 +1,15 @@
-numpy
+numpy # C++ based library for advanced array operations
+sentence-transformers # Framework for creating and using sentence embeddings
+pinecone # Managed vector database for fast similarity search
+openai # API client for accessing OpenAI models (GPT, embeddings, etc.)
+gradio # Library for building simple web UIs for ML apps
+tqdm # Progress bar utility for loops and iterable operations
+nltk # Natural Language Toolkit for text processing and NLP tasks
+python-dotenv # Loads environment variables from a .env file
+pdfplumber # Extracts text, tables, and metadata from PDF files
+PyPDF2 # Library for reading, merging, and writing PDFs
+PDFreader # Lightweight tool for reading and parsing PDF files
+langchain # Framework for building LLM-powered applications
+langchain-core # Core abstractions and utilities for LangChain
+langchain-community # Community-maintained integrations for LangChain
+python-docx # Create and modify Microsoft Word (.docx) files

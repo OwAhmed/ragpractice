@@ -13,3 +13,5 @@ langchain # Framework for building LLM-powered applications
 langchain-core # Core abstractions and utilities for LangChain
 langchain-community # Community-maintained integrations for LangChain
 python-docx # Create and modify Microsoft Word (.docx) files
+faiss-cpu # Facebook AI Similarity Search library for efficient vector search
+chromadb # Open-source embedding database for vector search
